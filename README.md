@@ -1,5 +1,4 @@
 # Challenge Suzano
-[![Build Status](https://travis-ci.org/lserra/challenge_boa.svg?branch=source)](https://travis-ci.org/lserra/challenge_boa)
 
 Challenge for a Vacancy at Suzano
 
