@@ -1,0 +1,46 @@
+{
+    "cod_concorrente": "1540570156182027",
+    "nome_concorrente": "P.F. Chang's Iguatemi",
+    "endereço": "",
+    "preco_praticado": "Flamboyant",
+    "bairro": "3",
+    "população": 57756,
+    "densidade": 4607,
+    "fluxo_medio": {
+        "segunda-feira": {
+            "manhã": "50",
+            "tarde": "102",
+            "noite": "99"
+        },
+        "terça-feira": {
+            "manhã": "12",
+            "tarde": "55",
+            "noite": "45"
+        },
+        "quarta-feira": {
+            "manhã": "39",
+            "tarde": "242",
+            "noite": "135"
+        },
+        "quinta-feira": {
+            "manhã": "50",
+            "tarde": "130",
+            "noite": "150"
+        },
+        "sexta-feira": {
+            "manhã": "49",
+            "tarde": "162",
+            "noite": "148"
+        },
+        "sábado": {
+            "manhã": "55",
+            "tarde": "300",
+            "noite": "176"
+        },
+        "domingo": {
+            "manhã": "65",
+            "tarde": "223",
+            "noite": "56"
+        }
+    }
+}
