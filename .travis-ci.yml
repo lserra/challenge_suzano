@@ -1,0 +1,11 @@
+language: python
+cache: pip
+branches:
+  only:
+    - source
+python:
+  - 3.8.8
+install:
+  - pip install -r requirements.txt
+script:
+  - bash start.sh

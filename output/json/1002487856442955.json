@@ -1,0 +1,46 @@
+{
+    "cod_concorrente": "1002487856442955",
+    "nome_concorrente": "Estação Anchieta Restaurante e Pizza Bar",
+    "endereço": "R. João Carlos do Amaral, 105, Jardim Aparecida, 13068-617 Campinas",
+    "preco_praticado": "Aparecidinha",
+    "bairro": "1",
+    "população": 62822,
+    "densidade": 3799,
+    "fluxo_medio": {
+        "segunda-feira": {
+            "manhã": "12",
+            "tarde": "0",
+            "noite": "5"
+        },
+        "terça-feira": {
+            "manhã": "2",
+            "tarde": "4",
+            "noite": "0"
+        },
+        "quarta-feira": {
+            "manhã": "3",
+            "tarde": "10",
+            "noite": "5"
+        },
+        "quinta-feira": {
+            "manhã": "2",
+            "tarde": "1",
+            "noite": "0"
+        },
+        "sexta-feira": {
+            "manhã": "1",
+            "tarde": "2",
+            "noite": "2"
+        },
+        "sábado": {
+            "manhã": "3",
+            "tarde": "6",
+            "noite": "1"
+        },
+        "domingo": {
+            "manhã": "2",
+            "tarde": "2",
+            "noite": "1"
+        }
+    }
+}
